@@ -1,1 +1,1 @@
-# gitmisc.gq
+[gitmisc.gq](http://gitmisc.gq)
